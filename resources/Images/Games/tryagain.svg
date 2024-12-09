@@ -1,0 +1,23 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
+    viewBox="0 0 12.69922 15.874025" version="1.1" x="0px" y="0px">
+    <g transform="translate(-89.29446,-173.61225)">
+        <g>
+            <path style="color:#000000;"
+                d="m 99.778068,175.81834 -1.838896,1.83897 2.326938,0.48804 z" fill="#000000"
+                stroke-width="1.32291" stroke-linecap="round" stroke-linejoin="round" />
+            <path style="color:#000000;"
+                d="m 99.966797,175.18359 a 0.66152112,0.66152112 0 0 0 -0.65625,0.16797 l -1.839844,1.83789 a 0.66152112,0.66152112 0 0 0 0.332031,1.11524 l 2.328126,0.48828 a 0.66152112,0.66152112 0 0 0 0.7832,-0.7832 l -0.48828,-2.32813 a 0.66152112,0.66152112 0 0 0 -0.458983,-0.49805 z m -0.585938,1.9668 0.0293,0.14063 -0.138672,-0.0312 z"
+                fill="#000000" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <path style="color:#000000;"
+            d="m 95.603516,174.7168 c -2.888355,-0.001 -5.243329,2.35572 -5.242188,5.24414 0.0012,2.88843 2.355761,5.243 5.244141,5.24414 2.289653,9.6e-4 4.246849,-1.471 4.957031,-3.52735 a 0.66145498,0.66145498 0 0 0 -0.41016,-0.84179 0.66145498,0.66145498 0 0 0 -0.83984,0.41015 c -0.529693,1.53374 -1.982206,2.63744 -3.705078,2.63672 -2.173369,-8.6e-4 -3.922923,-1.75032 -3.923828,-3.92383 -8.59e-4,-2.17352 1.74459,-3.91886 3.917968,-3.91796 1.046499,4.3e-4 2.050089,0.41819 2.78711,1.1621 a 0.66145498,0.66145498 0 0 0 0.935547,0.004 0.66145498,0.66145498 0 0 0 0.0039,-0.93555 c -0.984879,-0.99409 -2.325634,-1.5541 -3.724609,-1.55468 z"
+            fill="#000000" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <text x="0" y="27.69922" fill="#000000" font-size="5px" font-weight="bold"
+        font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Meko</text>
+    <text x="0" y="32.69922" fill="#000000" font-size="5px" font-weight="bold"
+        font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun
+        Project</text>
+</svg>
